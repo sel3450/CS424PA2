@@ -1,4 +1,4 @@
-# sierra laney and brandon jett
+# sierra laney and brandon luke jett
 # cs424: programming languages
 # programming assignment 2: julia
 # purpose: create a baseball player stats calculator
